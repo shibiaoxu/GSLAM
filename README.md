@@ -10,7 +10,7 @@ Wiki: https://github.com/zdzhaoyong/GSLAM/wiki
 
 API Documentation: https://zdzhaoyong.github.io/GSLAM/html
 
-If you use this code for your research, <a href="https://arxiv.org/abs/1902.07995">GSLAM: A General SLAM Framework and Benchmark</a>:
+If you use this code for your research, please cite our paper <a href="https://arxiv.org/abs/1902.07995">GSLAM: A General SLAM Framework and Benchmark</a>:
 
 ```
 @article{gslam2019,
